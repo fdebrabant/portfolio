@@ -23,6 +23,7 @@ const Photo = styled.div`
     width: 200px;
     left: 78px;
     top: 76px;
+    }
 `;
 
 const Triangle = styled.div`
@@ -30,6 +31,7 @@ const Triangle = styled.div`
     width: 225px;
     height: 235px;
     position: absolute;
+
     @media (min-width: 830px) {
     width: 296px;
     height: 300px;
@@ -39,7 +41,6 @@ const Triangle = styled.div`
     width: 356px;
   }
 
-
 `;
 
 const Container = styled.div`
@@ -48,6 +49,15 @@ const Container = styled.div`
     height: 235px;
     margin: auto;
     margin-top: 18px;
+
+    @media (min-width: 830px) {
+    width: 296px;
+    height: 300px;
+  }
+    @media (min-width: 1150px) {
+    height: 362px;
+    width: 356px;
+  }
 `;
 
 
