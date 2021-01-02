@@ -15,7 +15,7 @@ const Component = styled.div`
     display: flex;
     justify-content: center;
     align-items: baseline;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 `;
 
 export default function TitleSecond(props) {

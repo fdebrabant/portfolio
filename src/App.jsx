@@ -4,6 +4,7 @@ import BurgerMenu from './components/BurgerMenu';
 import Header from './views/Header';
 import Status from './views/Status';
 import Contact from './views/Contact';
+import Competences from './views/Competences';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <main>
           <Status />
           <Contact />
+          <Competences />
         </main>
       </div>
     </div>

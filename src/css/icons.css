@@ -15,6 +15,11 @@
     word-break: break-all;
 }
 
+.competenceIcon {
+    margin: auto;
+    font-size: 60px;
+}
+
 .socialLink {
     color: rgba(31, 132, 41, 0.47);
     font-size: 60px;
