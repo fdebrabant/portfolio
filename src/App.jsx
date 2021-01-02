@@ -3,6 +3,7 @@ import './css/main.css';
 import BurgerMenu from './components/BurgerMenu';
 import Header from './views/Header';
 import Status from './views/Status';
+import Contact from './views/Contact';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <main id="page-wrap">
         <Header />
         <Status />
+        <Contact />
       </main>
     </div>
   );

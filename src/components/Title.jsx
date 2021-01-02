@@ -9,7 +9,6 @@ const OutTitle = styled.div`
    width: 100px;
    height: 40px;
    margin: auto;
-
 `;
 
 export default function Title(props) {
@@ -17,8 +16,8 @@ export default function Title(props) {
 
     return (
         <div>
-        <h1 className={color}>{text}</h1>
-        <OutTitle className={outline}/>      
+            <h1 className={color}>{text}</h1>
+            <OutTitle className={outline}/>      
         </div>
     )
 }
