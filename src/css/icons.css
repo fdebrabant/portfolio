@@ -1,0 +1,28 @@
+.iconContainer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.icon {
+    display: inline-grid;
+}
+
+.iconText {
+    width: 100px;
+    text-align: center;
+    word-break: break-all;
+}
+
+.socialLink {
+    color: rgba(31, 132, 41, 0.47);
+    font-size: 60px;
+    margin: auto;
+}
+
+.socialLink:hover {
+    color: rgba(31, 132, 41, 0.7);
+    font-size: 80px;
+    transition: all 0.5s ease-in-out;
+}
