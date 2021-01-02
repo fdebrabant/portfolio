@@ -10,11 +10,13 @@ function App() {
   return (
     <div className="App" id="outer-container">
       <BurgerMenu />
-      <main id="page-wrap">
+      <div id="page-wrap">
         <Header />
-        <Status />
-        <Contact />
-      </main>
+        <main>
+          <Status />
+          <Contact />
+        </main>
+      </div>
     </div>
   );
 }
