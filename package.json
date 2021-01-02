@@ -42,6 +42,9 @@
   "main": "index.js",
   "devDependencies": {
     "@iconify/icons-bx": "^1.1.0",
+    "@iconify/icons-bytesize": "^1.1.0",
+    "@iconify/icons-ic": "^1.1.1",
+    "@iconify/icons-tabler": "^1.1.2",
     "@iconify/react": "^1.1.3",
     "eslint": "^7.16.0",
     "eslint-plugin-react": "^7.22.0"
