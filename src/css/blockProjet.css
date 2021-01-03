@@ -1,0 +1,9 @@
+
+
+@media screen and (min-width: 830px){
+
+    .blockProjet {
+        display: flex;
+        justify-content: space-between;
+    }
+}
