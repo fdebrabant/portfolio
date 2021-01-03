@@ -14,18 +14,18 @@ export default function IconsContact() {
                     className="socialLink" 
                     icon={mailOpened} 
                 />
-                <p className='iconText'>
+                <div className='iconText'>
                     debrabant.fanny@gmail.com
-                </p>
+                </div>
             </div>
             <div className='icon'>
                 <Icon
                     className="socialLink"  
                     icon={baselinePhoneAndroid} 
                  />
-                <p className='iconText'>
+                <div className='iconText'>
                     06.64.24.67.34 
-                </p>
+                </div>
             </div>
             <div className='icon'>
                 <a href="https://www.linkedin.com/in/fanny-debrabant/">

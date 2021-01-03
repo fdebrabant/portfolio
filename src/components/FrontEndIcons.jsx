@@ -16,36 +16,36 @@ export default function FrontEndIcons() {
                     className="competenceIcon"
                     icon={fileTypeHtml}          
                 />
-                <p className='iconText'>
+                <div className='iconText'>
                     HTML
-                </p>
+                </div>
             </div>
            <div className='icon'>
                 <Icon 
-                        icon={fileTypeCss}
-                        className="competenceIcon"
+                    icon={fileTypeCss}
+                    className="competenceIcon"
                 />
-                 <p className='iconText'>
+                 <div className='iconText'>
                     CSS
-                </p>
+                </div>
            </div>
            <div className='icon'>
                 <Icon 
                     icon={jsIcon}
                     className="competenceIcon"
                 />
-                 <p className='iconText'>
+                 <div className='iconText'>
                     JavaScript
-                </p>
+                </div>
             </div>
             <div className='icon'>
                 <Icon 
                     icon={reactIcon}
                     className="competenceIcon"
                 />
-                <p className='iconText'>
+                <div className='iconText'>
                     React
-                </p>
+                </div>
             </div>           
         </div>
     )
