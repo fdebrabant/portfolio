@@ -1,15 +1,18 @@
 import React from 'react';
-import '../css/text.css'
+import '../css/text.css';
+import PropTypes from 'prop-types';
 
-export default function Text() {
+export default function Text(props) {
+    const { text } = props;
     return (
         <div>
             <p>
-                Forte d’une experience passée dans la sphère de 
-                l’experiementation agricole, 
-                je suis aujourd’hui en reconversion dans 
-                le Web developpement.
+                {text}
             </p>
         </div>
     )
 }
+
+Text.propTypes = {
+    text: PropTypes.string
+};

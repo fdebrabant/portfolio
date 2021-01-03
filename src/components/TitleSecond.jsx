@@ -16,21 +16,22 @@ const Component = styled.div`
     justify-content: center;
     align-items: baseline;
     margin-bottom: 30px;
+    margin-top: 30px;
 `;
 
 export default function TitleSecond(props) {
     
-    const { color, text } = props;
+    const { size, text } = props;
     return (
         <Component>
             <AboveTitle />    
-                <h1 className={color}>{text}</h1>
+                <h1 className={size}>{text}</h1>
             <AboveTitle />      
         </Component>
     )
 }
 
 TitleSecond.propTypes = {
-    color: PropTypes.string,
+    size: PropTypes.string,
     text: PropTypes.string
 };

@@ -4,13 +4,21 @@ p {
     color: rgba(0, 0, 0, 0.5);
     text-align: center;    
     margin: auto;
-    width: 300px;        
+    width: 300px;  
+    margin-top: 20px;      
+}
+
+@media (min-width: 830px) {
+    p {
+        font-size: 18px;
+        width: 780px; 
+    }
 }
 
 @media screen and (min-width: 1150px){
     p {
-        font-size: 20px;
-        margin: auto; 
-        width: 400px; 
+        font-size: 22px;
+        width: 780px; 
     }
   }
+
