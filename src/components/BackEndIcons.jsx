@@ -15,12 +15,18 @@ export default function BackEndIcons() {
                     className="competenceIcon"
                     icon={nodejsIcon}          
                 />
+                <div className='iconText'>
+                    
+                </div>
             </div>
            <div className='icon'>
                 <Icon 
                     icon={expressIcon}
                     className="competenceIcon"
                 />
+                <div className='iconText'>
+                    
+                </div>
            </div>
            <div className='icon'>
                 <Icon 

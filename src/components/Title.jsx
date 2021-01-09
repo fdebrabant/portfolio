@@ -9,7 +9,7 @@ const OutTitle = styled.div`
    width: 100px;
    height: 40px;
    margin: auto;
-   margin-bottom: 30px;
+   margin-bottom: 50px;
 `;
 
 export default function Title(props) {

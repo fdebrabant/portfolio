@@ -3,15 +3,17 @@ li {
     list-style: url(../assets/img/puce-list.svg);
     color: rgba(0, 0, 0, 0.5);
     font-size: 13px;
+    padding: 10px ;
 }
 
 .list {
     margin: auto;
-    width : 350px;
+    width : 300px;
 }
 
 @media screen and (min-width: 1150px){
     li {
         font-size: 18px;
+        width : 500px;
     }
 }

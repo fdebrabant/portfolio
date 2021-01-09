@@ -6,6 +6,7 @@ import Status from './views/Status';
 import Contact from './views/Contact';
 import Competences from './views/Competences';
 import Projets from './views/Projets';
+import Formations from './views/Formations';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Contact />
           <Competences />
           <Projets />
+          <Formations />
         </main>
       </div>
     </div>
