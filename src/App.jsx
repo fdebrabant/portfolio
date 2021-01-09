@@ -7,6 +7,8 @@ import Contact from './views/Contact';
 import Competences from './views/Competences';
 import Projets from './views/Projets';
 import Formations from './views/Formations';
+import Experiences from './views/Experiences';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -21,7 +23,9 @@ function App() {
           <Competences />
           <Projets />
           <Formations />
+          <Experiences />
         </main>
+        <Footer /> 
       </div>
     </div>
   );
