@@ -5,6 +5,13 @@
     margin-bottom: 10px;
 }
 
+.iconContainerOneItem {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 30px 10px;
+}
+
 .icon {
     display: inline-grid;
 }
@@ -42,6 +49,7 @@
     color: rgba(31, 132, 41, 0.47);
     font-size: 60px;
     margin: auto;
+    display: block;
 }
 
 .socialLink:hover {

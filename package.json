@@ -43,6 +43,7 @@
   "devDependencies": {
     "@iconify/icons-bx": "^1.1.0",
     "@iconify/icons-bytesize": "^1.1.0",
+    "@iconify/icons-fa-solid": "^1.1.0",
     "@iconify/icons-grommet-icons": "^1.1.0",
     "@iconify/icons-ic": "^1.1.1",
     "@iconify/icons-logos": "^1.1.2",

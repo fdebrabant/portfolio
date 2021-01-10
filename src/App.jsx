@@ -1,15 +1,15 @@
-import React from 'react';
-import './css/main.css';
-import BurgerMenu from './components/BurgerMenu';
-import Header from './views/Header';
-import Status from './views/Status';
-import Contact from './views/Contact';
-import Competences from './views/Competences';
-import Projets from './views/Projets';
-import Formations from './views/Formations';
-import Experiences from './views/Experiences';
-import Footer from './components/Footer';
-
+import React from "react";
+import "./css/main.css";
+import BurgerMenu from "./components/BurgerMenu";
+import Header from "./views/Header";
+import Status from "./views/Status";
+import Contact from "./views/Contact";
+import Competences from "./views/Competences";
+import Projets from "./views/Projets";
+import Formations from "./views/Formations";
+import Experiences from "./views/Experiences";
+import Footer from "./components/Footer";
+import BoutonDl from "./components/BoutonDl";
 
 function App() {
   return (
@@ -19,13 +19,14 @@ function App() {
         <Header />
         <main>
           <Status />
+          <BoutonDl />
           <Contact />
           <Competences />
           <Projets />
           <Formations />
           <Experiences />
         </main>
-        <Footer /> 
+        <Footer />
       </div>
     </div>
   );
