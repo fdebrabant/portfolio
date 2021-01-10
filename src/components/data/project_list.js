@@ -15,6 +15,11 @@ const projectList = {
         "Geolocalisation / recherche de trajets.",
         "Systeme d’alerte en cas de probleme. " 
     ],
+    "epic_recipe": [
+        "Projet réalisé en 2 jours durant un Hackathon.",
+        "Création d'un mini jeu grâce à un algorithme.",
+        "Installation d'une ambiance sonore.",
+    ],
 };
 
 export default projectList;

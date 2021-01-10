@@ -23,12 +23,9 @@ export default function Competences() {
            <div>
                 <TitleSecond text='OUTILLAGE' size='secondTitle' />
                 <OutillageIcons />
-                <Text 
-                    text='Créer des maquettes de sites interactives.' 
-                />
+                <Text text='Créer des maquettes de sites interactives.' />
                 <Text text='Coder de manière lisible, propre et organisée.'/>
-                <Text text='Travailler sur des branches et faire des pull Request.Créer / utiliser une API.'/>
-                <Text text=' Manipuler une base de donnée.'/>
+                <Text text='Travailler sur des branches et faire des pull Request.'/>
            </div>
         </div>
     )

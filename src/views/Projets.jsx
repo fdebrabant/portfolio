@@ -41,6 +41,18 @@ export default function Projets() {
                 </div>
             </div>
             <div>
+                <TitleSecond text='EPIC RECIPE' size='secondTitle' />
+                <FrontEndIcons />
+                <div className='blockProjet'>
+                    <List list={projectList.epic_recipe}/>
+                    <BoutonProjet 
+                        link='https://epic-recipe.netlify.app/'
+                        logo='logoEpic'
+                        style='buttonEpic'
+                    />
+                </div>
+            </div>
+            <div>
                 <TitleSecond text='PYLOT' size='secondTitle' />
                 <FrontEndIcons />
                 <BackEndIcons />

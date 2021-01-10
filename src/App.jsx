@@ -20,11 +20,11 @@ function App() {
         <main>
           <Status />
           <BoutonDl />
-          <Contact />
           <Competences />
           <Projets />
           <Formations />
           <Experiences />
+          <Contact />
         </main>
         <Footer />
       </div>
