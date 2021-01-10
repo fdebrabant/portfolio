@@ -18,8 +18,9 @@ export default function Formations() {
             <Text 
                 text='Formation de developpeur 
                 web intensive de 5 mois.
-                Realiser des projets en groupe, en methode agile.
-                Utiliser un environnement FullStack. '
+                Formation basée sur la réalisation de projets en groupe, 
+                menés en methode agile en utilisant
+                un environnement FullStack. '
             />
             <TitleSecond 
                 text='BTSA PRODUCTION HORTICOLE' 
