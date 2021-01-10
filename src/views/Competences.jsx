@@ -8,7 +8,7 @@ import Text from '../components/Text';
 
 export default function Competences() {
     return (
-        <div>
+        <div id='competences' >
             <Title color='blue' text='Competences'/>
            <div>
                 <TitleSecond text='FRONT-END' size='secondTitle' />

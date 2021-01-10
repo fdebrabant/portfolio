@@ -54,6 +54,22 @@
     margin-bottom: 30px;
 }
 
+@media (min-width: 830px) {
+    .buttonPW {
+        margin-right: 0
+    }
+    .buttonP {
+        margin-right: 0
+    }
+    .buttonEpic {
+        margin-right: 0
+    }
+
+    .buttonVN {
+        margin-right: 0
+    }
+}
+
 .logoPlayerWild {
     background: url(../assets/img/logo-player-wild.svg) no-repeat center/cover;
     width: 95px;

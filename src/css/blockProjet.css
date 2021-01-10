@@ -1,9 +1,28 @@
-
-
 @media screen and (min-width: 830px){
 
     .blockProjet {
         display: flex;
         justify-content: space-between;
+    }
+}
+
+@media screen and (min-width: 1150px){
+
+    .blockProjet {
+        width: 875px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+
+    .blockProjet {
+        width: 1000px;
+    }
+}
+
+@media screen and (min-width: 1300px){
+
+    .blockProjet {
+        width: 1200px;
     }
 }

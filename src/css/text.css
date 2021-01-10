@@ -11,7 +11,7 @@ p {
 @media (min-width: 830px) {
     p {
         font-size: 18px;
-        width: 780px; 
+        width: 500px; 
     }
 }
 
@@ -21,4 +21,6 @@ p {
         width: 780px; 
     }
   }
+
+
 

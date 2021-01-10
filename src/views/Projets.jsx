@@ -14,7 +14,7 @@ export default function Projets() {
     console.log(projectList);
 
     return (
-        <div>
+        <div id="projets">
             <Title color='blue' text='Projets'/>
             <div>
                 <TitleSecond text='PLAYER-WILD' size='secondTitle' />

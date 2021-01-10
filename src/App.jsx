@@ -20,7 +20,7 @@ function App() {
         <main>
           <Status />
           <BoutonDl />
-          <Competences />
+          <Competences/>
           <Projets />
           <Formations />
           <Experiences />

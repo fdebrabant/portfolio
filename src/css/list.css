@@ -11,9 +11,33 @@ li {
     width : 300px;
 }
 
+.limain {
+    width : 300px;
+    margin: auto;
+}
+
+@media screen and (min-width: 630px){
+
+    .limain{
+        width: 500px;
+    }
+}
+
+@media screen and (min-width: 830px){
+
+    .limain{
+        width: 600px;
+    }
+}
+
 @media screen and (min-width: 1150px){
     li {
         font-size: 18px;
         width : 500px;
     }
+
+    .limain{
+        width: 600px;
+    }
 }
+

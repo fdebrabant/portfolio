@@ -6,9 +6,17 @@ import PropTypes from 'prop-types';
 
 const AboveTitle = styled.div`
    background: url(${carres}) no-repeat center/cover; 
-   width: 22px;
-   height: 22px;
+   width: 20px;
+   height: 20px;
    margin: 0 10px;
+   @media (max-width: 560px) {
+    width: 15px;
+   height: 15px;
+  }
+  @media (max-width: 560px) {
+    width: 10px;
+   height: 10px;
+  }
 `;
 
 const Component = styled.div`

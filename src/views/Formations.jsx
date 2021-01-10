@@ -7,7 +7,7 @@ import LogoBTS from '../components/LogoBTS';
 
 export default function Formations() {
     return (
-        <div>
+        <div id="formations">
             <Title color='blue' text='Formation'/>
             <TitleSecond 
                 text='DEVELOPPEUR WEB' 

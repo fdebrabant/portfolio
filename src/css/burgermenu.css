@@ -38,6 +38,7 @@
   .bm-menu-wrap {
     position: fixed;
     height: 100%;
+    margin-top: 10px;
   }
   
   /* General sidebar styles */

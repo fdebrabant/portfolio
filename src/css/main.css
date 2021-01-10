@@ -14,9 +14,33 @@ main {
     margin: 0 15px;
 }
 
+@media screen and (min-width: 450px){
+    main {
+        margin: 0 50px;
+    }
+}
+
+@media screen and (min-width: 830px){
+    main {
+        margin: 0 100px;
+    }
+}
+
 @media screen and (min-width: 1150px){
     main {
-        margin: 0 180px;
+        margin: 0 100px;
+    }
+}
+
+@media screen and (min-width: 1500px){
+    main {
+        margin: 0 200px;
+    }
+}
+
+@media screen and (min-width: 1700px){
+    main {
+        margin: 0 350px;
     }
 }
 

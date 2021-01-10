@@ -7,7 +7,7 @@ import expeList from '../components/data/expe_btsa';
 
 export default function Experiences() {
     return (
-        <div>
+        <div id="experiences">
             <Title color='blue' text='Experiences professionnelles'/>
             <TitleSecond 
                 text='Cheffe de culture et experimentation agricole' 
@@ -18,7 +18,7 @@ export default function Experiences() {
                 text='2016-2020 Divers entreprises tel que:
                 Agricool (93) ou la Ferme de la Chebuette (44)'
             />
-            <List list={expeList.btsa}/>
+            <List list={expeList.btsa} size='large'/>
             
         </div>
     )
