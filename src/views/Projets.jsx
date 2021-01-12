@@ -46,7 +46,7 @@ export default function Projets() {
                 <div className='blockProjet'>
                     <List list={projectList.epic_recipe}/>
                     <BoutonProjet 
-                        link='https://epic-recipe.netlify.app/'
+                        link='https://epicrecip.netlify.app/'
                         logo='logoEpic'
                         style='buttonEpic'
                     />
