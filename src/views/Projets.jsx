@@ -25,6 +25,7 @@ export default function Projets() {
                         link='https://maxime-monjal.github.io/Player-wild/'
                         logo='logoPlayerWild'
                         style='buttonPW'
+                        executed={true}
                     />
                 </div>
             </div>
@@ -37,6 +38,7 @@ export default function Projets() {
                         link='https://vegenantesgo.netlify.app/'
                         logo='logoVegenantes'
                         style='buttonVN'
+                        executed={true}
                     />
                 </div>
             </div>
@@ -49,6 +51,7 @@ export default function Projets() {
                         link='https://epicrecip.netlify.app/'
                         logo='logoEpic'
                         style='buttonEpic'
+                        executed={true}
                     />
                 </div>
             </div>
@@ -61,6 +64,7 @@ export default function Projets() {
                     <BoutonProjet 
                         logo='logoPylot'
                         style='buttonP'
+                        executed={false}
                     />
                 </div>
             </div>
