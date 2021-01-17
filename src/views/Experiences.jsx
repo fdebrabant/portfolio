@@ -15,7 +15,7 @@ export default function Experiences() {
             />
             <Text text='2016-2020'/>
             <Text 
-                text='2016-2020 Divers entreprises tel que:
+                text='Divers entreprises tel que:
                 Agricool (93) ou la Ferme de la Chebuette (44)'
             />
             <List list={expeList.btsa} size='large'/>
