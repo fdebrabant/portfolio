@@ -8,7 +8,7 @@ export default function Status() {
             <TitleSecond text='En recherche de stage' size='secondTitle' />
             <Text 
                 text='Forte d’une experience passée dans 
-                la sphère de l’experiementation agricole, 
+                la sphère de l’expérimentation agricole, 
                 je suis aujourd’hui en reconversion dans 
                 le Web developpement.'
             />
