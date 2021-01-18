@@ -7,7 +7,7 @@ export default function Status() {
         <div>
             <TitleSecond text='En recherche de stage' size='secondTitle' />
             <Text 
-                text='Forte d’une experience passée dans 
+                text='Forte d’une expérience passée dans 
                 la sphère de l’expérimentation agricole, 
                 je suis aujourd’hui en reconversion dans 
                 le Web developpement.'
