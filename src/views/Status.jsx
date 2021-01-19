@@ -10,7 +10,7 @@ export default function Status() {
                 text='Forte d’une expérience passée dans 
                 la sphère de l’expérimentation agricole, 
                 je suis aujourd’hui en reconversion dans 
-                le Web developpement.'
+                le Web développement.'
             />
         </div>
     )

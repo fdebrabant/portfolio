@@ -16,10 +16,10 @@ export default function Formations() {
             <Text text='sept 2020-fev 2021'/>
             <LogoWCS/>
             <Text 
-                text='Formation de developpeur 
+                text='Formation de développeur 
                 web intensive de 5 mois.
                 Formation basée sur la réalisation de projets en groupe, 
-                menés en methode agile en utilisant
+                menés en methode Agile en utilisant
                 un environnement FullStack. '
             />
             <TitleSecond 
@@ -30,7 +30,7 @@ export default function Formations() {
             <LogoBTS/>
             <Text 
                 text='Formation préparant au métier de chef 
-                de culture (management déquipe , connaissances
+                de culture (management d&rsquo;équipe , connaissances
                 végétales)' 
             />
         </div>

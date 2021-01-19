@@ -9,7 +9,7 @@ import Text from '../components/Text';
 export default function Competences() {
     return (
         <div id='competences' >
-            <Title color='blue' text='Competences'/>
+            <Title color='blue' text='Compétences'/>
            <div>
                 <TitleSecond text='FRONT-END' size='secondTitle' />
                 <FrontEndIcons />

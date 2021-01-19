@@ -9,7 +9,7 @@ export default function Header() {
             <Banner />
             <Profil />
             <Title text='Fanny Debrabant' color='green' />
-            <Title text='Developpeuse Web Junior' color='green' outline='hidden'/>
+            <Title text='Développeuse Web Junior' color='green' outline='hidden'/>
         </div>
     )
 }

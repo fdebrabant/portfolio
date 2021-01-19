@@ -10,7 +10,7 @@ export default function Experiences() {
         <div id="experiences">
             <Title color='blue' text='Experiences professionnelles'/>
             <TitleSecond 
-                text='Cheffe de culture et experimentation agricole' 
+                text='Cheffe de culture et expérimentation agricole' 
                 size='secondTitle' 
             />
             <Text text='2016-2020'/>
