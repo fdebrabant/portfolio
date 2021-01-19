@@ -1,5 +1,5 @@
 import React from "react";
-import cv from "../assets/img/CV.pdf";
+import cv from "../assets/img/CV-Debrabant-Fanny.pdf";
 import { Icon } from "@iconify/react";
 import fileDownload from "@iconify/icons-fa-solid/file-download";
 import "../css/icons.css";
