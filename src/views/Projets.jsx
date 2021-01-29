@@ -62,9 +62,10 @@ export default function Projets() {
                 <div className='blockProjet'>
                     <List list={projectList.pylot}/>
                     <BoutonProjet 
+                        link='https://nts-js-202009-p3-frontend-pylot.jsrover.wilders.dev/'
                         logo='logoPylot'
                         style='buttonP'
-                        executed={false}
+                        executed={true}
                     />
                 </div>
             </div>
